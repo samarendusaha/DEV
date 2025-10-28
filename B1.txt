@@ -1,1 +1,2 @@
 This file will be updated in B1 branch 
+The file is updated.
