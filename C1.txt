@@ -1,4 +1,4 @@
 This is common file and will be updated on every branch.
-1. B1 -> It will be updated -> Prod
+1. B1 -> It will be updated -> Prod => This is updated.
 2. B3 -> It will be updated -> Prod , then rolled backed
 3. B2 -> It will be updated -> Prod
